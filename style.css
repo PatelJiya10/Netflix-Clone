@@ -76,7 +76,7 @@ body {
 }
 
 #language > option{
-    color: black;
+    color: rgb(122, 74, 74);
 }
 
 .language-icon {
